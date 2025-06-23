@@ -82,7 +82,7 @@ This project follows a fully serverless event-driven architecture using AWS. Ima
 
 ## 👨‍💻 Contributors
 
-- **Roshan A Rauof** – 
-- **Shireen Aliza Ali** – 
+- **Roshan A Rauof** 
+- **Shireen Aliza Ali** 
 
 ---
