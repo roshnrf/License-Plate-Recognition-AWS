@@ -53,9 +53,9 @@ This project follows a fully serverless event-driven architecture using AWS. Ima
 
 | Image | Description |
 |-------|-------------|
-| ![Upload](screenshots/output1.png) | 📤 Image uploaded via API Gateway |
-| ![Detection](screenshots/output2.png) | 🔍 Rekognition detects the license plate |
-| ![Database](screenshots/output3.png) | 🗂️ Metadata stored in DynamoDB |
+| ![Upload](screenshots/output1.png) | 🗂️ App is Deployed |
+| ![Detection](screenshots/output2.png) | 📤 Image uploaded via API Gateway |
+| ![Database](screenshots/output3.png) | 🔍 Rekognition detects the license plate | 
 
 ---
 
